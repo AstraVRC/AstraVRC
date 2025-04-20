@@ -1,5 +1,4 @@
-Just a dum cat coding in JS
-Learning C# slowly
+Just a dum cat coding in JS and C#
 - vrc_astra
 <!---
 AstraVRC/AstraVRC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
